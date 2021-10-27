@@ -1,0 +1,39 @@
+.news-content .section-news li {
+    padding: 10px;
+}
+
+.news-content .section-hot li:hover{
+    background-color: yellowgreen;
+}
+
+.news-content .section-realty li:hover{
+    background-color: rgb(205, 50, 50);
+}
+
+.news-content .section-news .footer{
+    background-color: white;
+}
+
+.news-content .section-hot .footer{
+    color: cadetblue;
+}
+.news-content .section-realty .footer{
+    color: crimson;
+}
+
+.news-content .section-news li:hover a{
+    color: rgb(255, 255, 249);
+}
+
+.news-content.section-news h2{
+    color: white;
+    padding: 10px;
+}
+
+.news-content .section-hot h2{
+    background-color: rgb(114, 189, 107);
+}
+
+.news-content .section-realty h2{
+    background-color: rgba(19, 194, 107, 0.856);
+}
